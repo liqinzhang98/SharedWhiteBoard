@@ -2,7 +2,7 @@
 - A whiteboard that allows multiple users to edit and shares the modifications on the canvas.
 - Build based on Java.
 - RMI structure used as the communication portal
-- Front end is built based on the Java swing
+- Front end is built based on the Java swing.
 
 
 # System architecture
